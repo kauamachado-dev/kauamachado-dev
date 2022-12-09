@@ -2,8 +2,9 @@ Olá, Eu sou o Kauã Machado 👋
 
 
 - 😄 Sobre mim: 18 anos
-- 💻 • Técnico de Informática para Internet
+- 💻 Técnico de Informática para Internet
 - 🖥️ Desenvolvedor: BackEnd
+- 🚀 Metodologia: Design Thinking
 - 📫 Contato: kauamachadoferreira0@gmail.com
 
  O que eu ultilizo?
@@ -16,6 +17,9 @@ src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logo
 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code>
 <code><img height="20" alt="javascript" 
 src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+<code><img height="20" alt="db" 
+src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></code>
+
 
 | <a href="https://github.com/kauamachado-dev/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kauamachado-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauamachado-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
