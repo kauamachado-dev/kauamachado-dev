@@ -2,7 +2,8 @@ Olá, Eu sou o Kauã Machado 👋
 
 
 - 😄 Sobre mim: 18 anos
-- 💻 Desenvolvedor: BackEnd
+- 💻 • Técnico de Informática para Internet
+- 🖥️ Desenvolvedor: BackEnd
 - 📫 Contato: kauamachadoferreira0@gmail.com
 
  O que eu ultilizo?
